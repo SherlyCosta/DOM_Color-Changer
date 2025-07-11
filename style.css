@@ -1,0 +1,46 @@
+html {
+  margin: 0;
+}
+
+span {
+  display: block;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+
+#red {
+  background: #ee0707;
+}
+
+#blue {
+  background: #3410f1;
+}
+
+#yellow {
+  background: #dfae15;
+}
+#green {
+  background: #0f9668;
+}
+#pink {
+  background: #d43ca0;
+}
+
+/* images */
+.rangers{
+  width: 220px;
+  height: auto;
+  margin: 30px auto 20px;
+}
+
+/*responsive*/
